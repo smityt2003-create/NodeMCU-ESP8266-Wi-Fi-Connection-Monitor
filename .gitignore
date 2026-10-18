@@ -1,0 +1,10 @@
+# Local Wi-Fi credentials — never commit these
+secrets.h
+
+# Arduino / editor / OS files
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
