@@ -167,7 +167,7 @@ git remote add origin https://github.com/YOUR-USERNAME/nodemcu-wifi-monitor.git
 git push -u origin main
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username. If Git asks you to authenticate, follow GitHub's current sign-in/token instructions.
+Replace `https://github.com/smityt2003` with your GitHub username. If Git asks you to authenticate, follow GitHub's current sign-in/token instructions.
 
 ## Learning outcomes
 
