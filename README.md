@@ -1,4 +1,5 @@
 # NodeMCU ESP8266 Wi-Fi Connection Monitor + PIR Motion Alert
+2nd Sem Collage Project
 
 A beginner-friendly IoT/cybersecurity learning project using a **NodeMCU ESP8266**, a PIR motion sensor, an LED, and an active buzzer.
 
